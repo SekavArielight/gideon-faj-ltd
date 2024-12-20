@@ -1,0 +1,246 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CloverGrotesk-Black
+FamilyName:Clover Grotesk
+StyleName:Black
+FullName:Clover Grotesk Black
+MenuName:Clover Grotesk Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BRANDS\MY PROJECT\GIDEONFAJ LTD\10x\Font\CloverGrotesk-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:22460
+FileModTime:1678518564
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clover Grotesk Black
+NameArray:0,Win,1,Clover Grotesk Black
+NameArray:0,Win,16,Clover Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CloverGrotesk-Bold
+FamilyName:Clover Grotesk
+StyleName:Bold
+FullName:Clover Grotesk Bold
+MenuName:Clover Grotesk Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BRANDS\MY PROJECT\GIDEONFAJ LTD\10x\Font\CloverGrotesk-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:21940
+FileModTime:1678518564
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clover Grotesk Bold
+NameArray:0,Win,1,Clover Grotesk Bold
+NameArray:0,Win,16,Clover Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CloverGrotesk-ExtraBold
+FamilyName:Clover Grotesk
+StyleName:ExtraBold
+FullName:Clover Grotesk ExtraBold
+MenuName:Clover Grotesk ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BRANDS\MY PROJECT\GIDEONFAJ LTD\10x\Font\CloverGrotesk-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:22632
+FileModTime:1678518564
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clover Grotesk ExtraBold
+NameArray:0,Win,1,Clover Grotesk ExtraBold
+NameArray:0,Win,16,Clover Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CloverGrotesk-ExtraLight
+FamilyName:Clover Grotesk
+StyleName:ExtraLight
+FullName:Clover Grotesk ExtraLight
+MenuName:Clover Grotesk ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BRANDS\MY PROJECT\GIDEONFAJ LTD\10x\Font\CloverGrotesk-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:21464
+FileModTime:1678518564
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clover Grotesk ExtraLight
+NameArray:0,Win,1,Clover Grotesk ExtraLight
+NameArray:0,Win,16,Clover Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CloverGrotesk-Light
+FamilyName:Clover Grotesk
+StyleName:Light
+FullName:Clover Grotesk Light
+MenuName:Clover Grotesk Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BRANDS\MY PROJECT\GIDEONFAJ LTD\10x\Font\CloverGrotesk-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:21620
+FileModTime:1678518564
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clover Grotesk Light
+NameArray:0,Win,1,Clover Grotesk Light
+NameArray:0,Win,16,Clover Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CloverGrotesk-Medium
+FamilyName:Clover Grotesk
+StyleName:Medium
+FullName:Clover Grotesk Medium
+MenuName:Clover Grotesk Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BRANDS\MY PROJECT\GIDEONFAJ LTD\10x\Font\CloverGrotesk-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:21508
+FileModTime:1678518564
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clover Grotesk Medium
+NameArray:0,Win,1,Clover Grotesk Medium
+NameArray:0,Win,16,Clover Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CloverGrotesk-Regular
+FamilyName:Clover Grotesk
+StyleName:Regular
+FullName:Clover Grotesk Regular
+MenuName:Clover Grotesk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BRANDS\MY PROJECT\GIDEONFAJ LTD\10x\Font\CloverGrotesk-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:21812
+FileModTime:1678518564
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clover Grotesk Regular
+NameArray:0,Win,1,Clover Grotesk
+NameArray:0,Win,16,Clover Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CloverGrotesk-SemiBold
+FamilyName:Clover Grotesk
+StyleName:SemiBold
+FullName:Clover Grotesk SemiBold
+MenuName:Clover Grotesk SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BRANDS\MY PROJECT\GIDEONFAJ LTD\10x\Font\CloverGrotesk-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:21936
+FileModTime:1678518564
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clover Grotesk SemiBold
+NameArray:0,Win,1,Clover Grotesk SemiBold
+NameArray:0,Win,16,Clover Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CloverGrotesk-Thin
+FamilyName:Clover Grotesk
+StyleName:Thin
+FullName:Clover Grotesk Thin
+MenuName:Clover Grotesk Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BRANDS\MY PROJECT\GIDEONFAJ LTD\10x\Font\CloverGrotesk-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:21076
+FileModTime:1678518564
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Clover Grotesk Thin
+NameArray:0,Win,1,Clover Grotesk Thin
+NameArray:0,Win,16,Clover Grotesk
+%EndFont
+

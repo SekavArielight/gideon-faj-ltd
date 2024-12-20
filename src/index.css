@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* width: 100dvw;
+  overflow-x: hidden;
+   */
+  font-family: "sans-serif";
+  background-color: #dfdff0;
+}
+
+@layer base {
+  @font-face {
+    font-family: 'CloverGrotesk';
+    src: url('/fonts/CloverGrotesk-Thin.otf') format('otf');
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'CloverGrotesk';
+    src: url('/fonts/CloverGrotesk-ExtraLight.otf') format('otf');
+    font-weight: 200;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'CloverGrotesk';
+    src: url('/fonts/CloverGrotesk-Light.otf') format('otf');
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'CloverGrotesk';
+    src: url('/fonts/CloverGrotesk-Normal.otf') format('otf');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'CloverGrotesk';
+    src: url('/fonts/CloverGrotesk-Medium.otf') format('otf');
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'CloverGrotesk';
+    src: url('/fonts/CloverGrotesk-SemiBold.otf') format('otf');
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'CloverGrotesk';
+    src: url('/fonts/CloverGrotesk-Bold.otf') format('otf');
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'CloverGrotesk';
+    src: url('/fonts/CloverGrotesk-ExtraBold.otf') format('otf');
+    font-weight: 800;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'CloverGrotesk';
+    src: url('/fonts/CloverGrotesk-Black.otf') format('otf');
+    font-weight: 900;
+    font-style: normal;
+  }
+}
+
+@layer utilities {
+  .nav-hover-btn {
+    @apply relative ms-10 font-CloverGrotesk text-xs uppercase text-blue-50 after:absolute after:-bottom-0.5 after:left-0 after:h-[2px] after:w-full after:origin-bottom-right after:scale-x-0 after:bg-neutral-800 after:transition-transform after:duration-300 after:ease-[cubic-bezier(0.65_0.05_0.36_1)] hover:after:origin-bottom-left hover:after:scale-x-100 dark:after:bg-white cursor-pointer;
+  }
+
+  .floating-nav {
+    @apply bg-black rounded-lg border;
+  }
+
+  .absolute-center {
+    @apply absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%];
+  }
+
+  .flex-center {
+    @apply flex justify-center items-center;
+  }
+
+  .mask-clip-path {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+}
