@@ -13,7 +13,7 @@ export default {
         homeBlack: "#000000",
         brandcolor: "#ddff00",
         aboutBlack: "#181818",
-        cardBlack: "#0d0d0d",
+        cardBlack: "#161616",
       },
     },
   },

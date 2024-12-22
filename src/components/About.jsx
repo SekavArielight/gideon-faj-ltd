@@ -14,30 +14,32 @@ import { ServiceData } from "../constants";
 const About = () => {
   return (
     <div className="bg-aboutBlack relative">
-      <div className="absolute inset-x-0 -translate-y-1/2 bg-cardBlack rounded-lg mx-auto p-11 max-w-6xl z-10 flex flex-col justify-between sm:flex-row">
-        <div className="flex items-center justify-center flex-col gap-3">
+      <div className="absolute inset-x-0 -translate-y-1/2 bg-gradient-to-r from-homeBlack to-cardBlack rounded-lg mx-auto p-11 max-w-6xl z-10 flex flex-col justify-between sm:flex-row">
+        <div className="flex items-start justify-center flex-col gap-3">
           <p className="text-6xl text-blue-50 font-CloverGrotesk font-bold">50<span className="text-brandcolor">+</span></p>
           <p className="text-blue-50 font-sans">Satisfied Clients Served</p>
         </div>
-        <div className="flex items-center justify-center flex-col gap-3">
+        <div className="flex items-start justify-center flex-col gap-3">
           <p className="text-6xl text-blue-50 font-CloverGrotesk font-bold">100<span className="text-brandcolor">+</span></p>
           <p className="text-blue-50 font-sans">Projects Successfully Completed</p>
         </div>
-        <div className="flex items-center justify-center flex-col gap-3">
+        <div className="flex items-start justify-center flex-col gap-3">
           <p className="text-6xl text-blue-50 font-CloverGrotesk font-bold">15<span className="text-brandcolor">+</span></p>
           <p className="text-blue-50 font-sans">Years of Industry Experience</p>
         </div>
-        <div className="flex items-center justify-center flex-col gap-3">
+        <div className="flex items-start justify-center flex-col gap-3">
           <p className="text-6xl text-blue-50 font-CloverGrotesk font-bold">96<span className="text-brandcolor">%</span></p>
           <p className="text-blue-50 font-sans">Client Retention Rate</p>
         </div>
-        <div className="flex items-center justify-center flex-col gap-3">
+        <div className="flex items-start justify-center flex-col gap-3">
           <p className="text-6xl text-blue-50 font-CloverGrotesk font-bold">50<span className="text-brandcolor">+</span></p>
           <p className="text-blue-50 font-sans">Satisfied Clients Served</p>
         </div>
       </div>
 
-      <div className="flex items-center justify-center flex-col h-[900px] mx-auto max-w-screen-2xl font-CloverGrotesk">
+      <div className="flex items-center justify-center flex-col h-[900px] mx-auto max-w-screen-2xl">
+        <h4 className="text-blue-50 md:text-[42px] font-bold inline mt">What We Do</h4>
+        <p className="text-blue-50 text-center my-8">We empower businesses to excel online and offline with innovative services <br /> and unmatched customer satisfaction</p>
       <Swiper
         breakpoints={{
           340: {

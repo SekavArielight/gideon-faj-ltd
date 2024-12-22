@@ -2,16 +2,15 @@ import React, { useRef, useState, useEffect } from "react";
 // import { TiLocationArrow } from "react-icons/ti";
 import { useWindowScroll } from "react-use";
 import gsap from "gsap";
-import { FaDiscord, FaGithub, FaTwitch, FaTwitter } from "react-icons/fa";
+import { FaBehance, FaFacebookSquare, FaInstagram} from "react-icons/fa";
 
 const links = [
-  { href: "https://discord.com", icon: <FaDiscord /> },
-  { href: "https://twitter.com", icon: <FaTwitter /> },
-  { href: "https://github.com", icon: <FaGithub /> },
-  { href: "https://twitch.com", icon: <FaTwitch /> },
+  { href: "https://facebook.com", icon: <FaFacebookSquare /> },
+  { href: "https://behance.com", icon: <FaBehance /> },
+  { href: "https://instagram.com", icon: <FaInstagram /> },
 ];
 
-const navItems = ["Home", "About", "Services", "Contact", "Learn", "Portfolio"];
+const navItems = ["Home", "Services", "About", "Contact", "Learn", "Portfolio"];
 
 const Navbar = () => {
   const [lastScrollY, setLastScrollY] = useState(0);

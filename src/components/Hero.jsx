@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="relative w-screen overflow-x-hidden bg-homeBlack max-w-full px-28">
       <div className="max-w-screen-2xl mx-auto flex flex-col sm:flex-row items-center justify-between">
-        <div className="py-32 mx-auto flex-1">
+        <div className="py-40 mx-auto flex-1">
           <p className="text-brandcolor uppercase font-mono font-bold py-4">
             100+ projects successfully completed
           </p>
