@@ -8,7 +8,7 @@ const Hero = () => {
           <p className="text-brandcolor uppercase font-mono font-bold py-4">
             100+ projects successfully completed
           </p>
-          <h1 className="text-blue-50 text-4xl md:text-7xl xl:text-8xl text-center sm:text-left font-CloverGrotesk font-bold">
+          <h1 className="uppercase text-blue-50 text-4xl md:text-7xl xl:text-8xl text-center sm:text-left font-CloverGrotesk font-bold">
             Empower Your <br /> Business To <br /> Grow
           </h1>
           <p className="text-blue-50 py-4 text- font-sans">
