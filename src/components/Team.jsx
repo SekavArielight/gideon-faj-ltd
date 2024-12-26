@@ -19,6 +19,10 @@ const Team = () => {
         </div>
         <div>
           <img src="/public/images/team-2.webp" alt="Adebare Amos" className="w-64 rounded-lg"/> 
+          <div className="absolute bottom-0">
+            <p className="text-[#fefefe]">Gideon-Faj Owoeye</p>
+            <p className="text-[#6d6d6d]">Head Innovator</p>
+          </div>
         </div>
         <div>
           <img src="/public/images/team-1.webp" alt="Gideon-Faj" className="w-64 rounded-lg"/>

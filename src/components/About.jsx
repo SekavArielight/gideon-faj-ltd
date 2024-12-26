@@ -4,8 +4,8 @@ const About = () => {
   return (
     <div className="bg-aboutBlack pb-28">
       <div className="max-w-screen-2xl mx-auto text-center text-[#fefefe]">
-        <h1 className="text-5xl font-bold">At Gideonfaj Creative Studio</h1>
-        <p className="px-28">
+        <h1 className="text-5xl font-bold mb-5">At Gideonfaj Creative Studio</h1>
+        <p className="px-28 font-bold">
           We are dedicated to transforming businesses into industry leaders. Our
           mission at Gideon-Faj Creative Studio is to reposition businesses for
           success in the digital space while enhancing their physical presence

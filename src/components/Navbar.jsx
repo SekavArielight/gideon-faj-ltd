@@ -82,7 +82,7 @@ const Navbar = () => {
                 href={link.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-blue-50 transition-colors duration-500 ease-in-out hover:text-blue-500"
+                className="text-blue-50 transition-colors duration-500 ease-in-out hover:text-brandcolor"
               >
                 {link.icon}
               </a>
